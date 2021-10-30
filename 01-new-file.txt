@@ -5,3 +5,4 @@ another line
 =======
 new master comment
 >>>>>>> f43df84... updated 01-new-file
+new pull request change
